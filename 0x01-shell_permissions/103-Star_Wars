@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 401 StarWars
+telnet towel.blinkenlights.nl
