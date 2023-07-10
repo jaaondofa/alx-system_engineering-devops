@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World" > New_file.txt
+echo "Hello, World" > New_file.txt | cat New_file.txt
