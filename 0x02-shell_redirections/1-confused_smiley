@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)" > h_file | cat h_file
+echo ' "(Ôo)'\'
